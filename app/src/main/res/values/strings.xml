@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Penjualan</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="nama">Nama</string>
+    <string name="Katasandi">Kata Sandi</string>
+    <string name="Masuk">Masuk</string>
+    <string name="registrasi">Saya Belum memiliki akun</string>
+    <string name="ubah_foto_profil">Ubah Foto Profil</string>
+    <string name="Tanggallahir">Tanggal Lahir</string>
+    <string name="Jeniskelamin">Jenis Kelamin</string>
+    <string name="Email">Email</string>
+    <string name="daftar">Daftar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="semen_dynamix_40kg">Semen Dynamix 40kg</string>
+    <string name="harga">Rp.52.000,-</string>
+    <string name="grosir">Grosir</string>
+    <string name="persentase">30%</string>
+    <string name="semua_produk">Semua Produk</string>
+    <string name="profile">Profile</string>
+    <string name="akun_saya">Akun Saya</string>
+    <string name="no_hp">No. HP</string>
+    <string name="terverifikasi">Terverifikasi</string>
+    <string name="pengaturan_akun">Pengaturan Akun</string>
+    <string name="ubah_profile">Ubah Profile</string>
+    <string name="ubah_profile_dirimu">Ubah Profile Dirimu</string>
+    <string name="ubah_kata_sandi">Ubah Kata Sandi</string>
+    <string name="ubah_katasandimu_disini">Ubah Kata Sandimu Disini</string>
+    <string name="ulasan">Ulasan</string>
+    <string name="beri_ulasan_produk">Beri Ulasan Produk</string>
+    <string name="simpan">Simpan</string>
+    <string name="konfrimasi_kata_sandi_baru">Konfrimasi Kata Sandi Baru</string>
+    <string name="kata_sandi_baru">Kata Sandi Baru</string>
+    <string name="kata_sandi_saat_ini">Kata Sandi Saat Ini</string>
+    <string name="judulproduk">Semen Dynamix Masonry 40kg</string>
+    <string name="detail_produk">Semen tipe Portland adalah jenis semen paling umum yang digunakan dalam proyek konstruksi. Dikenal karena kekuatannya yang tinggi dan daya tahan yang lama, semen ini sering digunakan untuk proyek seperti pembangunan jalan raya, bangunan bertingkat tinggi, dan jembatan. Selain itu, semen tipe Portland juga mudah dicampur dengan bahan lain seperti pasir dan kerikil, sehingga memudahkan penggunaannya dalam berbagai proyek konstruksi</string>
+</resources>
